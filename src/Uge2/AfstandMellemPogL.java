@@ -17,7 +17,7 @@ public class AfstandMellemPogL {
     double afstand = (a * x - y + b)/Math.sqrt(1 + a*a);
 
     System.out.println("Afstanden er: " + afstand);
-// TESTER
+// TESTER NAEUN I LOVE YOU
     }
 }
 
