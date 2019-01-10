@@ -19,7 +19,7 @@ public class CheckPassword {
             System.out.println("Lændgen af dit password er godkendt");
         }
          else if (length < 4) {
-             System.out.println("Længden af dit password er er for kort og er derfor ikke godkendt");
+             System.out.println("Længden af dit password er for kort og er derfor ikke godkendt");
              System.out.println("Det skal bestod af mindst 4 charaters og højst 9");
         }
          else if (length > 9) {
